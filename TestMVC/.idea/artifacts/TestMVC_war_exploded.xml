@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="TestMVC:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestMVC_war_exploded</output-path>
+    <properties id="ant-postprocessing">
+      <options enabled="true" />
+    </properties>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TestMVC/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TestMVC" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

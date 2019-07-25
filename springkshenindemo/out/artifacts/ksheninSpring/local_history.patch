@@ -1,0 +1,7 @@
+Index: web/views/list.jsp
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- web/views/list.jsp	(date 1563277642342)
++++ web/views/list.jsp	(date 1563277642342)
