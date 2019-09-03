@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-war" name="ksheninSpring">
-    <output-path>$PROJECT_DIR$/out/artifacts/ksheninSpring</output-path>
-    <root id="root">
-      <element id="javaee-facet-resources" facet="springkshenindemo/web/Web" />
-      <element id="dir-copy" path="$PROJECT_DIR$/../WebServletKshenin" />
-    </root>
-  </artifact>
-</component>
